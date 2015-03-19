@@ -1,0 +1,3 @@
+pf.PngSignature [8]b Signature #Bug with [8]b
+pf.IHDRChunk iibbbbb Width Height BitDepth ColorType Compression Filter Interlace #i is not working as expected
+pf.PLTEChunkEntry bbb Red Green Blue
