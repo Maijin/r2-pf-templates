@@ -1,5 +1,5 @@
 #b is not appropriate pf type
 #begcyl begin as the same offset as begsect and endcyl begin at the same offset as endsect => Impossible to do yet with pf
 
-pf.fdisk_partition bbbb[2]bbb[2]b[4]b[4]b bootid beghead begsect begcyl systid endhead endsect endcyl relsect numsect ; pf.fdisk_partition
+pf.fdisk_partition bbbb[2]bbb[2]b[4]b[4]b bootid beghead begsect begcyl systid endhead endsect endcyl relsect numsect
 pf.mbr [446]D[4]?w bootinst (fdisk_partition)partitions signature
