@@ -1,0 +1,3 @@
+pf.mifare_manufacturer_block [4]b[1]b[11]b[32]b[6]b[3]b[1]b[6]b Card_UID LRC Internal Data Key_A Access_Bits GPB Key_B
+pf.mifare_sec_4blk [48]b[6]b[3]b[1]b[6]b Data Key_A Access_Bits GPB Key_B
+pf.mifare_sec_16blk [240]b[6]b[3]b[1]b[6]b Data Key_A Access_Bits GPB Key_B
